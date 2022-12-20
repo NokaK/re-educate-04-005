@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Rubik';
+    src: url('./fonts/RubikVinyl-Regular.woff2') format('woff2'),
+    	 url('./fonts/RubikVinyl-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
